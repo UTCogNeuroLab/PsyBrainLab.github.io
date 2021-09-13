@@ -1,4 +1,4 @@
-baseURL = "https://PESTILLILAB.github.io/"
+baseURL = "https://utcogneurolab.github.io/PsyBrainLab.github.io/"
 languageCode = "en-us"
 title = "PsyBrain Lab"
 theme="tacademia.hugo"
