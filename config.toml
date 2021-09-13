@@ -1,9 +1,9 @@
 baseURL = "https://PESTILLILAB.github.io/"
 languageCode = "en-us"
-title = "Pestilli Lab"
+title = "PsyBrain Lab"
 theme="tacademia.hugo"
 [params.footer]
-    title= "PESTILLI LAB"
+    title= "PsyBrain LAB"
     backgroundColor = "#FFFFFF"
     textColor = "#646464"
     boldTextColor = "#373737"
@@ -23,10 +23,7 @@ theme="tacademia.hugo"
     "Neuroscience PHD" = "https://neuroscienceinstitute.utexas.edu/PhD%20Program"
     "Computer Science PHD" = "https://www.cs.utexas.edu/graduate-program/phd-program"
 [params.footer.relatedLinks.research]
-    "brainlife.io" = "https://brainlife.io"
     "TACC" = "IMAGING CENTER"
-    "Indiana University UITS" = "https://dcops.iu.edu/"
-    "NeuroscienceNetwork.org" = "https://NeuroscienceNetwork.org"
 [params.footer.Academic]
     "Psychology Department" = "https://liberalarts.utexas.edu/psychology/"
     "The University of Texas" = "The University of Texas" 
